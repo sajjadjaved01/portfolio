@@ -3924,7 +3924,7 @@ hr { background-color: #E6ECF8; }
 
 .hero.is-white .title { color: #141c3a; }
 
-.avatar { margin: 2rem 0; width: 150px; }
+.avatar { margin: 2rem 0; width: 150px; border-radius: 50%; }
 
 @media screen and (min-width: 769px) { .avatar { width: 210px; } }
 
